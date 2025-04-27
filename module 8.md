@@ -1,7 +1,7 @@
 ```python
 Developed By  :  SANJAY M
 Register No   :  212223230187
-Module No     :  C Module 7
+Module No     :  C Module 8
 ```
 
 EXP NO:6 A PROGRAM PRINT THE LOWERCASE ENGLISH WORD CORRESPONDING TO THE NUMBER
